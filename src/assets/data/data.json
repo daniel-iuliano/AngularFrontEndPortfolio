@@ -1,0 +1,19 @@
+{
+    "name": "Daniel Iuliano",
+    "bannerImg": "",
+    "profileImg":"https://danieliuliano.com.ar/assets/img/daniel-iuliano-main-img.png",
+    "position": "FullStack Developer",
+    "school": {
+        "name": "INTI",
+        "img":""
+    },
+    "ubication": "Buenos Aires, Argentina",
+    "about": "¡Hola! Ahora estoy centrado por completo en el diseño del mundo y las aventuras que propone. Tengo experiencia en Diseño Web, Desarrollo Web Front End y estoy aprendiendo BackEnd para ser un Fullstack Dev, además tengo conocimientos en Marketing Digital, SEO, Programación y Diseño de UI. Me gusta dibujar, jugar videojuegos, hacer música, comer pizza y puedo decir hola en inglés, español e italiano. Actualmente estoy aprendiendo Angular y estoy tratando de mejorar mis habilidades de NodeJs.",
+    "experience": [
+        {
+            "position":"FullStack Developer",
+            "year": "2021-2022"
+        }
+    ]
+    
+}
